@@ -1,0 +1,1 @@
+operators: = | rep, > | { $gt: rep }, < | { $lt:  rep }, <> | { $ne : rep }
